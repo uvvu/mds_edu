@@ -1,0 +1,1 @@
+cmd_/work/example/mds2450_st/14_skeleton/02_open_release/sk.ko := /usr/local/arm/4.3.4-arm/bin/arm-unknown-linux-gnueabi-ld -EL -r  -T /work/kernel-mds2450-3.0.22/scripts/module-common.lds --build-id  -o /work/example/mds2450_st/14_skeleton/02_open_release/sk.ko /work/example/mds2450_st/14_skeleton/02_open_release/sk.o /work/example/mds2450_st/14_skeleton/02_open_release/sk.mod.o

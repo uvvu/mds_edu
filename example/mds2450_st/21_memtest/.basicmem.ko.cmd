@@ -1,0 +1,1 @@
+cmd_/work/example/mds2450_st/21_memtest/basicmem.ko := /usr/local/arm/4.3.4-arm/bin/arm-unknown-linux-gnueabi-ld -EL -r  -T /work/kernel-mds2450-3.0.22/scripts/module-common.lds --build-id  -o /work/example/mds2450_st/21_memtest/basicmem.ko /work/example/mds2450_st/21_memtest/basicmem.o /work/example/mds2450_st/21_memtest/basicmem.mod.o
